@@ -1,5 +1,5 @@
 & help
-Welcome to Wing Commander: New Horizon MUSH. Please don't be afraid to ask for
+Welcome to Ashes of Sol MUSH. Please don't be afraid to ask for
 help if you need it! Just type '+new I need some help!'. Our admin and
 player guides will be glad to help if able.
  
@@ -61,7 +61,7 @@ LOCK      How can I lock or unlock entire rooms?
 Type 'help <topic>' for more information on each topic.
 
 & SOCIAL
-Playing on any MUSH is a social experience, and WCNH is no different.  We
+Playing on any MUSH is a social experience, and AoS is no different.  We
 provide a number of methods for communicating and interacting with your fellow
 players.  The important point to remember is that some routes of communication
 are In-Character (IC) and others are Out-of-Character (OOC).  The help files on
@@ -100,7 +100,7 @@ or the game at large.
 Type 'help <topic>' for more information on each topic.
 
 & original
-Welcome to Wing Commander: New Horizon MUSH. Please don't be afraid to ask for
+Welcome to Ashes of Sol MUSH. Please don't be afraid to ask for
 help if you need it! Just type '+new I need some help!'. Our admin and
 player guides will be glad to help if able.
   
@@ -110,7 +110,7 @@ player guides will be glad to help if able.
   For the list of standard MUSH topics, type:     help topics
   For an alphabetical list of all help entries:   help entries   
  
-  For a list of commands specific to WCNH, type:  help local
+  For a list of commands specific to AoS, type:   help local
   To view the Terms of Service, type:             help terms of service
  
 If you find an error in the help files or have an idea of how to make one 
@@ -121,7 +121,8 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   wanted <entry number>
  
   This command allows you to view the IC 'wanted' information, jointly published
-  by the Enigma Sector Consortium & the Kilrathi Commonwealth.
+  by the Jovian Confederacy, Martian Oligarchy, Lunar Republic, and Saturian 
+  Technocracy.
  
   This information is fully IC and may be acted upon, however, please remember
   that just because you see another player in a room with you, you may not know
@@ -134,7 +135,7 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   See additional help on: +911, +ticket
 
 & +log
-  On WCNH, by default, all roleplay poses, emits, etc are logged. This is for
+  On AoS, by default, all roleplay poses, emits, etc are logged. This is for
   several reasons: #1, to reward players with XP, +noms, and other perks based
   on the amount they roleplay, and #2, to allow players and staff to retrieve
   logs easily, both after scenes and in real-time, eliminating the need for
@@ -154,10 +155,10 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   +log/last - View the last 5 poses you've seen, whether yours or not.
   +log/last page <#> - View more pages of poses you've seen.
 & contract
-  The contract system represents the IC process that both the Consortium and
-  Commonwealth (unified under 'Enigma Sector Procurement') go through when they
-  have large jobs that need to be handled by an outside contractor. It's similar
-  to many real-world 'RFP'/procurement processes.
+  The contract system represents the IC process that the Confederacy, Oligarchy, 
+  Republic, and Technocracy (unified under 'Sol System Procurement') go through 
+  when they have large jobs that need to be handled by an outside contractor. 
+  It's similar to many real-world 'RFP'/procurement processes.
 
   The contract system is used for all sorts of contract jobs, big and small.
 
