@@ -1,6 +1,6 @@
 & BBOARD
 & +BBOARD
-Wing Commander: New Horizon's Bulletin Board is a custom in-game system written
+Ash of Sol's Bulletin Board is a custom in-game system written
 in Ruby which aims to provide the experience of using a web-based forum while
 logged in to the game.  For the sake of simplicity, wherever it's possible the
 command structure mimics the popular Myrddin BBS that has become a staple on
@@ -111,8 +111,8 @@ to that contain posts or replies that you haven't yet read.
 Writing a bulletin board post is as easy as sending email or writing a post on
 a web-based forum.  When writing a bboard post, keep in mind that some bulletin
 boards are Out-of-Character (OOC) and some are In-Character (IC).  The boards
-that are IC will have "IC" in their name.  For example, "IC - Enigma Sector
-News Net".  Please refrain from posting IC information on boards that are not
+that are IC will have "IC" in their name.  For example, "IC - Jovian Confederacy
+News".  Please refrain from posting IC information on boards that are not
 IC.
  
 If you prefer to write a post using a single command, you can use the "+bbpost"
