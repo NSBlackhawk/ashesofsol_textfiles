@@ -15,7 +15,7 @@
   system to help design your character - his or her abilities, skills, traits,
   and so on. The process is very similar to that used in pen-and-paper RPGs.
 
-  WCNH's system is based on the FUDGE tabletop system, with adaptations and
+  AoS's system is based on the FUDGE tabletop system, with adaptations and
   customizations for MUSH use.
 
   As a new player, you will need to complete chargen before you can begin role-
@@ -105,7 +105,7 @@ See also: chargen overview, +check, +sheet, +values
 & +values
   +values
 
-  +values shows you the various numerical values used in WCNH's chargen system,
+  +values shows you the various numerical values used in AoS's chargen system,
   and their adjective descriptions.
 See also: chargen overview, +check, +sheet, +skillinfo
 & chargen room
@@ -116,11 +116,12 @@ Welcome aboard! This help file will help you through the first room.
 The commands you'll need here are:
  
 +set age <AGE>
-You can't be over 85 or under 18. Note that we use 'human years' here, even
-for other races.
+You can't be over 85 or under 18. Note that we use 'human years' here.
  
 +set race <RACE>
-Choose a race. Valid races at the moment are are Human or Kilrathi.
+Choose a race. Valid races at the moment are are Jovian, Lunarian, Martian, 
+Saturian, and Urian.  However, during the time, only Jovians, Lunarians,
+and Urians will be open for application.
  
 +set concept <CONCEPT>
 Your 'concept' is a one-or-two sentence summary of your character. We make you
@@ -130,9 +131,7 @@ merchant trader. Young, impressionable, but determined to make his mark on the
 galaxy.'
  
 +set name <firstname> <lastname>
-You need a full name. Kilrathi should use their clan name as their last name.
-(See the Kilrathi page on the website for info on the clans that are part of
-our little corner of the galaxy.)
+You need a full name.  Middle name is not mandatory.
  
 +set gender <Male|Female>
 I dearly hope this is self-explanatory.
