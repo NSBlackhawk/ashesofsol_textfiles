@@ -63,7 +63,8 @@
   type '+new <message>'.
 
   Type 'help chargen commands' to see the list of global chargen commands.
-& chargen commands.  These are the global commands that interface with 
+& chargen commands.  
+  These are the global commands that interface with 
   the chargen system.  For information on the commands used IN chargen 
   itself, see 'help chargen room'.
 
