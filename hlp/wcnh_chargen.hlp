@@ -63,10 +63,9 @@
   type '+new <message>'.
 
   Type 'help chargen commands' to see the list of global chargen commands.
-& chargen commands
-  These are the global commands that interface with the chargen system.
-  For information on the commands used IN chargen itself, see 'help chargen 
-  room'.
+& chargen commands.  These are the global commands that interface with 
+  the chargen system.  For information on the commands used IN chargen 
+  itself, see 'help chargen room'.
 
   COMMANDS:
 
@@ -120,8 +119,8 @@ You can't be over 85 or under 18. Note that we use 'human years' here.
  
 +set race <RACE>
 Choose a race. Valid races at the moment are are Jovian, Lunarian, Martian, 
-Saturian, and Urian.  However, during the time, only Jovians, Lunarians,
-and Urians will be open for application.
+Saturnian, Urian, and Spacer.  However, during the time, only Jovians, 
+Lunarians, Urians, and Spacers will be open for application.
  
 +set concept <CONCEPT>
 Your 'concept' is a one-or-two sentence summary of your character. We make you
