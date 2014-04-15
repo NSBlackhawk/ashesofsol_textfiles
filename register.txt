@@ -1,2 +1,2 @@
-WCNH uses e-mail based registration. Use 'register "first last" my@email.com'.
+AoS uses e-mail based registration. Use 'register "first last" my@email.com'.
 For example: register "Joe Smith" joe@smith.com 
