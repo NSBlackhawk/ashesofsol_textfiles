@@ -4,9 +4,9 @@ This is the admin-only help for AoS.
   PAGES:
 
   +acheck        BBOARD         COMBAT         COMMS          CONTRACT
-  +DOSSIER       ECON           +FACTION       +gmemit        ITEMS
-  +PFILE         +RP            +SPACE         +TICKET        WANTED
-  +ZONE   
+  +DESC          +DOSSIER       ECON           +FACTION       +gmemit
+  ITEMS          +PFILE         +RP            +SPACE         +TICKET
+  WANTED         +ZONE
 
 & ITEMS
 There are items, and there are instances of said items.  The 'items' are

@@ -25,14 +25,13 @@ If you want a complete index of game-specific code, try 'help local'.
  
   PAGES:
  
-  +911           ACCOUNT        +BBOARD        +bg            CALENDAR       
-  CARGO          cash           CHARGEN        COMBAT         COMMS          
-  +concept       CONTRACT       FACTIONS       +finger        +guides
-  GUIDES         +LOG           lock           +map           +ooc
-  pay            PLACES         put down       RACES          +RP
-  +set           SPACE          +staff         +TICKET        time
-  WANTED         +where         +who           +XP
-
+  +911           ACCOUNT        +BBOARD        +bg            CALENDAR
+  CARGO          cash           CHARGEN        COMBAT         COMMS
+  +concept       CONTRACT       +DESC          FACTIONS       +finger
+  +guides        GUIDES         +LOG           lock           +map
+  +ooc           pay            PLACES         put down       RACES
+  +RP            +set           SPACE          +staff         +TICKET
+  time           WANTED         +where         +who           +XP
 
 & ROLEPLAY
 Roleplaying is the meat and potatoes of our game.  It's the primary reason why

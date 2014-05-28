@@ -1,0 +1,14 @@
+& desc
+& +desc
+This code allows for staff-set permanent descriptions, such as standardized
+uniforms or canonical suits of some kind (Anomaly uses them for their Starfleet
+uniforms), but they must be hand set. If you do not wish to use permanent
+descriptions, you do not need to make any modifications to the code, it will
+run fine without them.
+To set up a permanent description, you must set two attributes on the data
+object: &DESC_<name> and &DESC_<name>_ACCESS. If the DESC_<name>_ACCESS
+returns 1, the player can use the description.
+
+&DESC_TEST Global Description Functions <GDF>=This is a permanent desc.
+&DESC_TEST_ACCESS Global Description Functions <GDF>=[orflags(%0,WZ)]
+In the above example, Wizards and Royalty can access the 'TEST' description.

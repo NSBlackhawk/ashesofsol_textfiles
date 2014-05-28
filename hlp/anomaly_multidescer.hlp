@@ -1,0 +1,35 @@
+& desc
+& +desc
++desc/list - List the names of all your descriptions.
++desc/view <desc-name> - Look at a particular description.
++desc/get <desc-list> - Change your @desc to the named one.
++desc/store <desc-name>=<text> - Create a new description from scratch.
++desc/kill <desc-name> - Erase an old description.
++desc/save <desc-name> - Copies your @desc for later retrieval.
++desc/edit <desc>=<old>/<new> - Edits a saved description.
+
+This set of commands will allow you to use the global multi-description
+system. If your character has more than one description, please use this
+system, and not an object which wastes DB space. If an object is found, it
+will be destroyed. These commands let you store any number of descriptions
+and to retrieve them as needed. Your current description is the one loaded
+into @desc on your character and is the one that rest of the world sees.
+
+Please see: +desc2
+& desc2
+& +desc2
+
+Some helpful tips: '+desc/store' is used to author a new description. It does
+not save or modify your current @desc but creates a brand new saved
+description. Use '+desc/save' to save your current @desc so that you can
+retrieve it later. This is also handy for porting descriptions from other
+multi-descers as you can load them into your @desc and then use '+desc/save'.
+
+You can chain together sets of descriptions, making a complex multi-descer.
+For instance, describe your character's facial features (but no clothes yet),
+calling it BASIC. Then, create a second description containing only your
+character's clothes, calling it something like CLOTHES. Then, you can use
+'+desc/get BASIC CLOTHES', and it will install both descriptions, with BASIC
+coming first and CLOTHES coming next.
+
+Please contact staff if you have any questions.
