@@ -48,11 +48,6 @@
   +bg
 
   +bg lets you view your chargen questions and answers once you've left chargen.
-& +map
-  +map
-
-  This shows you an IC map of our systems and how they're connected, via jump
-  point.
 & +911
 Syntax: +911 <reason>
  
@@ -65,3 +60,11 @@ resolution, use +ticket.
  
   +concept lets you view your chargen character concept once you've left
   chargen.
+& +roll
+  +roll <dice> (i.e. 2d6, 1d20+5, etc)
+  +roll/private <dice>
+
+  This command lets you roll simple dice. If you use +roll/private, only you
+  will see the results; +roll will show everyone in your room.
+  
+See also: +check

@@ -8,7 +8,7 @@ on our website: http://ashesofsol.wikidot.com/new-player-guide
  
 Otherwise, choose one of the following topics to get started with:
  
-ROLEPLAY          SPACE             ECONOMY           SOCIAL
+ROLEPLAY          SPACE        SOCIAL
  
 Type 'help <topic>' to delve into the topic of your choice.
  
@@ -25,13 +25,12 @@ If you want a complete index of game-specific code, try 'help local'.
  
   PAGES:
  
-  +911           ACCOUNT        +BBOARD        +bg            CALENDAR
-  CARGO          cash           CHARGEN        COMBAT         COMMS
-  +concept       CONTRACT       +DESC          FACTIONS       +finger
-  +guides        GUIDES         +LOG           lock           +map
-  +ooc           pay            PLACES         put down       RACES
-  +RP            +set           SPACE          +staff         +TICKET
-  time           WANTED         +where         +who           +XP
+  +911           +BBOARD        +bg            CALENDAR       CHARGEN
+  COMBAT         COMMS          CONTRACT       +DESC          FACTIONS
+  +finger        +guides        +LOG           +ooc           PLACES
+  +ROLL          RP             +set           SPACE          +staff
+  +TICKET        time           WANTED         +where         +who
+  +XP
 
 & ROLEPLAY
 Roleplaying is the meat and potatoes of our game.  It's the primary reason why
