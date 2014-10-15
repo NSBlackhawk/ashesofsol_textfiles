@@ -28,7 +28,7 @@ If you want a complete index of game-specific code, try 'help local'.
   +911           +BBOARD        +bg            CALENDAR       CHARGEN
   COMBAT         COMMS          CONTRACT       +DESC          FACTIONS
   +finger        +guides        +LOG           +ooc           PLACES
-  +ROLL          RP             +set           SPACE          +staff
+  +ROLL          +RP            +set           SPACE          +staff
   +TICKET        time           WANTED         +where         +who
   +XP
 
